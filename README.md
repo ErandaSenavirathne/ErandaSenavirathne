@@ -1,4 +1,13 @@
-# 👋 Hi there, I'm Eranda Senavirathne  
+<!-- Fancy header with typing effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Eranda+Senavirathne;A+Passionate+Full-Stack+Software+Engineer;From+Sri+Lanka" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff&animation=twinkling" />
+</p>
+
+--- 
 
 🎯 *"Turning ideas into code, and code into impact."*  
 
