@@ -7,12 +7,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff&animation=twinkling" />
 </p>
 
---- 
-
-🎯 *"Turning ideas into code, and code into impact."*  
-
-I’m a passionate **Full-Stack Software Engineer** from **Sri Lanka**, currently working on exciting university projects while sharpening my skills in real-world development.  
-
 ---
 
 ## 🚀 About Me  
